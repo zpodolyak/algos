@@ -1,2 +1,10 @@
 # algos
-A collection of popular algorithm implementations
+
+Implementations of popular algorithms
+
+- Merge Sort
+- Quck Sort
+- Heap Sort (Min/max heap)
+- BFS
+- Dijkstra Shortest Path
+
